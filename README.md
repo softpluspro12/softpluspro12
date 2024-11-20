@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">👋 Hi, I’m @asixdev0082</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m @softpluspro12</h1>
 
 <p align="center">
 <!--   <a href="mailto:live:.cid.bd5df81ce709e38c">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center">A DApp Developer & UX/UI Designer</h3>
+  <h3 align="center">A DApp and Web app developer</h3>
 
 - 😎 Interested in contributing expertise in web and blockchain development
 
